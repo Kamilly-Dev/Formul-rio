@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(28, 76, 125);
+}
+
+h1{
+    color: white;
+    margin: 0 auto;
+    max-width: 400px;
+   margin-top: 100px;
+}
+
+form{
+    margin-top: -40px;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 500px;
+    border-radius: 15px;
+    box-shadow:0px 6px 7px rgb(255, 255, 255); 
+    width: 400px;
+    background-color: white;
+    height: 300px;
+
+}
+
+.button{
+    background-color: rgb(28, 76, 125);
+}
+
+h3{
+    color: white;
+    margin: 0 auto;
+    max-width: 500px;
+    padding: 50px;
+}
+.accordion {
+    margin: 0 auto;
+    max-width: 500px;
+    width: 450px;
+    margin-top: -40px;
+}
